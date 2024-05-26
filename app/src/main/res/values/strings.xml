@@ -31,7 +31,7 @@
     <string name="facebook_client_token" translatable="false">a4ac239d9776fce311975b56fd9d1a2e</string>
 
     <!--oneSignal App ID-->
-    <string name="one_signal_app_id" translatable="false">79e8150d-6ad3-4e58-8193-3ed6c03bd665</string>
+    <string name="one_signal_app_id" translatable="false">a2b24c2f-1f81-4e5b-8dfb-eec15cde9b3d</string>
 
     <!--Privacy Policy and Contact Info-->
     <string name="privacy_policy" translatable="false">https://google.com</string>
@@ -111,12 +111,6 @@
     <string name="already_have_account">Already have an account? <font color="#f34e71">Sign in.</font></string>
     <string name="welcome_back">Welcome back!</string>
     <string name="notification_permission_dialog">Please grant notification permissions to stay tuned for new offers and updates</string>
-
-
-
-
-
-    <!--CashReward\app\build\generated\res\google-services\debug\values-->
 
 
 </resources>
