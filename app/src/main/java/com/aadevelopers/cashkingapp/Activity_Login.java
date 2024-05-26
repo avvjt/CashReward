@@ -314,7 +314,7 @@ public class Activity_Login extends AppCompatActivity {
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
                 // for the requestIdToken, this is in the values.xml file that
                 // is generated from your google-services.json
-                .requestIdToken(getString(R.string.default_web_client_id))
+                .requestIdToken("1:1021849794722:android:860046418b47e287e3bffb")
                 .requestEmail()
                 .build();
         // Build a GoogleSignInClient with the options specified by gso.

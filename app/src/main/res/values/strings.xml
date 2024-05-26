@@ -1,6 +1,6 @@
 <resources>
     <!--App Name-->
-    <string name="app_name">Cash King</string>
+    <string name="app_name">Cash Reward</string>
 
     <string name="next">Next</string>
     <string name="skip">Skip</string>
@@ -111,4 +111,12 @@
     <string name="already_have_account">Already have an account? <font color="#f34e71">Sign in.</font></string>
     <string name="welcome_back">Welcome back!</string>
     <string name="notification_permission_dialog">Please grant notification permissions to stay tuned for new offers and updates</string>
+
+
+
+
+
+    <!--CashReward\app\build\generated\res\google-services\debug\values-->
+
+
 </resources>
