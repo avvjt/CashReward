@@ -4,7 +4,7 @@ public class Constatnt {
 
     //Admin url
 
-    public static String Main_Url = "https://demo-app.rbmjltd.com/Cash_King_8.0/"; //end with slash /
+    public static String Main_Url = "https://offfofff.com/"; //end with slash /
     public static String Base_Url = Main_Url + "api.php";
     public static String WHEEL_URL = Main_Url + "img/wheel.gif";
     public static String RESET_PASSWORD = Main_Url + "reset_pass.php";
