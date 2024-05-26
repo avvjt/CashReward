@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6858E4</color>
+    <color name="colorPrimaryDark">#25184E</color>
+
+    <!-- head_color is for top background color in AppInstallActivity, GameActivity, OffersActivity, VideoWatchActivity etc  -->
+    <color name="head_color">#2E1F5E</color>
+
+    <!-- coins_background_color is for coins background color in AppInstallActivity, GameActivity, OffersActivity, VideoWatchActivity etc  -->
+    <color name="coins_background_color">#12FFFFFF</color>
+
+    <!--TODO  if you don't want gradient colors then you can set one color in all gradient colors which are mentioned below.-->
+
+    <!-- Gradient colors for OfferWall, Game, Home Screen item background -->
+    <color name="home_background_start_color">#5E4B97</color>
+    <color name="home_background_center_color">#5A4597</color>
+    <color name="home_background_end_color">#4A3781</color>
+    <!-- ends the gradient colors-->
+
+    <!-- Redeem Activity main screen background gradient colors -->
+    <color name="reward_main_screen_background_start_color">#2A2661</color>
+    <color name="reward_main_screen_background_end_color">#383278</color>
+    <!-- ends the gradient colors-->
+
+    <!-- Redeem Activity, Reward Fragment balance card view background gradient colors -->
+    <color name="reward_background_start_color">#49387C</color>
+    <color name="reward_background_center_color">#4A3783</color>
+    <color name="reward_background_end_color">#3C2B70</color>
+    <!-- ends the gradient colors-->
+
+    <!-- Redeem cards item background gradient colors -->
+    <color name="redeem_item_background_start_color">#4A3781</color>
+    <color name="redeem_item_background_center_color">#3A296A</color>
+    <color name="redeem_item_background_end_color">#423075</color>
+    <!-- ends the gradient colors-->
+
+    <!-- Coin dialog, Invite dialog buttons gradient colors -->
+    <color name="dialog_start_color">#8E81F6</color>
+    <!-- by default center color is your colorPrimary, you can change it according to design need.-->
+    <color name="dialog_center_color">@color/colorPrimary</color>
+    <color name="dialog_end_color">#6C5CE4</color>
+    <!-- ends the gradient colors-->
+
+    <!-- Welcome screen background gradient colors-->
+    <color name="welcome_screen_start_color">#2C1E5A</color>
+    <color name="welcome_screen_center_color">#3F2F78</color>
+    <color name="welcome_screen_end_color">#483581</color>
+    <!-- ends the gradient colors-->
+
+    <!-- Offertoro dialog background gradient colors -->
+    <color name="offertoro_start_color">#1E2E64</color>
+    <color name="offertoro_center_color">#301C63</color>
+    <color name="offertoro_end_color">#24144E</color>
+    <!-- ends the gradient colors-->
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_trans">#90FFFFFF</color>
+    <color name="ring">#9c52df</color>
+    <color name="arrow">#f4872a</color>
+    <color name="center">#5FE3F0</color>
+    <color name="black_trans">#C6CDF4</color>
+    <!--normal colors-->
+    <color name="gray">#95a5a6</color>
+    <color name="darkTextColor">#020000</color>
+    <!--colors for light mode-->
+    <color name="contentTextColor">#020000</color>
+    <color name="primaryTextColor">#448AFF</color>
+    <color name="mred">#33097D</color>
+    <color name="Gamezone">#192CA3</color>
+    <color name="plback">#190A27</color>
+    <color name="back2">#F4F2F7</color>
+    <color name="backtop">#888091</color>
+    <color name="greenn">#107EEB</color>
+    <color name="greenn2">#6200EA</color>
+    <color name="greenn3">#00E5FF</color>
+    <color name="dark_text">#104BA6</color>
+    <color name="gray_light">#88CCCCCC</color>
+    <color name="text_color">#3C3E65</color>
+
+    <color name="background_color">#ecf0f3</color>
+    <color name="highlight">#ffffff</color>
+    <color name="shadow_color">#d9dbde</color>
+    <!--colors for light mode-->
+    <!--colors for light mode-->
+
+    <color name="one">#703edb</color>
+    <color name="two">#b970ff</color>
+    <color name="three">#703edb</color>
+    <color name="four">#b970ff</color>
+    <color name="five">#703edb</color>
+    <color name="seven">#b970ff</color>
+    <color name="eght">#703edb</color>
+    <color name="nine">#b970ff</color>
+    <color name="ten">#703edb</color>
+    <color name="eleven">#b970ff</color>
+    <color name="twalv">#703edb</color>
+    <color name="last">#b970ff</color>
+
+
+    <string-array name="rainbow_dash">
+        <item>@color/one</item>
+        <item>@color/two</item>
+        <item>@color/three</item>
+        <item>@color/four</item>
+        <item>@color/five</item>
+        <item>@color/seven</item>
+        <item>@color/eght</item>
+        <item>@color/nine</item>
+        <item>@color/ten</item>
+        <item>@color/eleven</item>
+        <item>@color/twalv</item>
+        <item>@color/last</item>
+    </string-array>
+
+    <!--wheel colors-->
+    <color name="wheel_b">#722906</color>
+    <color name="wheel_1">#485563</color>
+    <color name="wheel_2">#4CAF50</color>
+    <color name="wheel_3">#E7522A</color>
+    <color name="wheel_4">#485563</color>
+    <color name="wheel_5">#4CAF50</color>
+    <color name="wheel_6">#E7522A</color>
+    <color name="wheel_7">#485563</color>
+    <color name="wheel_8">#4CAF50</color>
+    <color name="wheel_9">#E7522A</color>
+    <color name="wheel_10">#FFFFFF</color>
+
+    <color name="wheel_edge">#B7560E</color>
+
+
+
+
+
+
+
+    <color name="c1">#F55344</color>
+    <color name="c2">#209BC4</color>
+    <color name="c3">#4EC14A</color>
+    <color name="c4">#c5bfbd</color>
+    <color name="c5">#F8D23F</color>
+    <color name="c6">#FEA839</color>
+    <color name="c7">#F55344</color>
+    <color name="c8">#209BC4</color>
+    <color name="c9">#4EC14A</color>
+    <color name="c10">#32475C</color>
+    <color name="c11">#F8D23F</color>
+    <color name="c12">#FEA839</color>
+    <!-- Screens background color-->
+    <color name="black">#000000</color>
+
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#7F38DF</color>
+    <color name="dot_light_screen2">#FFAB1C</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <color name="grey">#757171</color>
+    <color name="green">#008000</color>
+
+    <color name="transparent">#88000000</color>
+    <color name="red">#FF1E46</color>
+    <color name="red_dark">#DD1539</color>
+
+
+    <color name="coin_bar_color">#1A337def</color>
+    <color name="colorwalletback">#12000000</color>
+    <color name="colorpDark">#F4F1F7</color>
+    <color name="dark_red">#CC0812</color>
+    <color name="shimmer_color">#2F324B</color>
+
+
+
+    <color name="colorAccent">#2F3553</color>
+    <color name="dark_blue">#272C45</color>
+    <color name="prpl">#400756</color>
+    <color name="colorSecondryDark">#5616A0</color>
+
+
+
+    <color name="overlay_dark_50">#80000000</color>
+
+
+
+    <color name="overlay_light_30">#4DF8F6F6</color>
+
+
+
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#F7F6F6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+
+
+    <!--Material color list from https://material.io/guidelines/style/color.html-->
+
+    <color name="red_100">#FFCDD2</color>
+    <color name="red_400">#EF5350</color>
+
+
+    <color name="green_500">#4CAF50</color>
+
+    <!-- colors for button style -->
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="yellow_600">#FDD835</color>
+
+
+    <color name="amber_800">#FF8F00</color>
+
+    <color name="purple_50">#F3E5F5</color>
+    <color name="purple_400">#AB47BC</color>
+    <color name="mtxtcolor">#220044</color>
+    <color name="pink">#F24AE7</color>
+    <color name="rose_red">#F04A5A</color>
+    <color name="purple_light">#A16858E4</color>
+    <color name="purple_supper_light">#524ABD</color>
+    <color name="sub_color">#ECE9E9</color>
+    <color name="div_color">#190F39</color>
+    <color name="button_bg">#EDEDED</color>
+
+</resources>

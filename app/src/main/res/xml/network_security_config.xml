@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">https://wpwala.com</domain>
+    </domain-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">http://13126.6.18</domain>
+    </domain-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">offertoro.com</domain>
+    </domain-config>
+
+    <domain-config cleartextTrafficPermitted="true">
+
+        <!--TODO = Change this URL with your domain URL if SSL is not installed on your server, otherwise skip this step. If SSL not installed then Enter domain like this, example: "http://domainname.com". use "http" only. -->
+        <domain includeSubdomains="true">https://demo-app.rbmjltd.com/Cash_King_8.0</domain>
+    </domain-config>
+</network-security-config>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="?selectableItemBackground"/>
+    <item>
+        <shape >
+            <corners android:radius="15dp"/>
+            <gradient android:angle="270"
+                android:startColor="@color/reward_background_start_color"
+                android:centerColor="@color/reward_background_center_color"
+                android:endColor="@color/reward_background_end_color"/>
+        </shape>
+    </item>
+
+
+</layer-list>
